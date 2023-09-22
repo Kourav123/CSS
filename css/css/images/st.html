@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        div {
+            width: 100px;
+            height: 100px;
+            background: green;
+            position: relative;
+            animation-name: anim;
+            animation-duration: 3s;
+            animation-fill-mode: forwards;
+        }
+
+        @keyframes anim {
+            from {
+                top: 0px;
+            }
+
+            to {
+                top: 100px;
+                background-color: red;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h3>Animation fill mode</h3>
+    <p></p>
+    <div></div>
+</body>
+
+</html>

@@ -1,0 +1,9 @@
+#color {
+    color: purple;
+    font-weight: bold;
+}
+.custom {
+    color: #75a6e7;
+    font-size: 20px;
+    text-align: left;
+}

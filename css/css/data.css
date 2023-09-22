@@ -1,0 +1,21 @@
+/* Styles for the 'pink' class */
+.pink {
+    color: pink;
+}
+
+/* Styles for the 'purple' class */
+.purple {
+    color: purple;
+    font-weight: bold;
+}
+
+/* Styles for the 'thick' class */
+.thick {
+    font-weight: bold;
+}
+
+/* Styles for the 'custom' class */
+.custom {
+    /* Add your custom styles here */
+    color: pink;
+}
